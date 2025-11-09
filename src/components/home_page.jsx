@@ -26,7 +26,7 @@ export const Homex = () => {
         />
         <p className="image-caption">Lord Vishwakarma — The Cosmic Artisan</p>
 
-        <h1 className="hero-title">🔨 Virada Viswakarma Miss4</h1>
+        <h1 className="hero-title">🔨 Virada Viswakarma Mission</h1>
         <p className="hero-subtitle">From Forge to Future — We Shape the Sacred</p>
         <div className="hero-buttons">
           <Link to="/about" className="btn">Our Story</Link>
