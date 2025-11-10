@@ -53,7 +53,7 @@ export const Homex = () => {
       </section>
 
       <footer className="footer">
-        <p>© 2025 Virata Vishwakarma Mission | Crafted with purpose in Kerala</p>
+        <p>© 2025 Virada Vishwakarma Mission | Crafted with purpose in Kerala</p>
       </footer>
     </div>
   );
